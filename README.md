@@ -1,3 +1,3 @@
 # hello-world
-new in GitHub
+new GitHub
 make some change here
